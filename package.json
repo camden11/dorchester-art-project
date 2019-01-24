@@ -4,6 +4,7 @@
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
   "license": "MIT",
+  "homepage": "https://dorchesterartproject.org/",
   "scripts": {
     "develop": "gatsby develop",
     "start": "npm run develop",
